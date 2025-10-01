@@ -16,7 +16,7 @@ Interactive Tableau dashboard analyzing Superstore sales, profit, and customer t
 ![Dashboard Screenshot](Superstore_Dashboard_Tableau.PNG)
 
 📂 *How to View*  
-Open the .twbx file in Tableau Desktop to explore interactive charts and KPIs
+[Tableau Project File](Tableau_Superstore_Dashboard.twb)
 
 
 
